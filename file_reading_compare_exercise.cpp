@@ -26,3 +26,16 @@ int main()
     inputFile.close();
     return 0;
 }
+
+// file
+asbc
+ad.e
+. 8.
+9.8.3
+rra
+xyx
+dsaa
+
+oo
+a
+
