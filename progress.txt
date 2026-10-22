@@ -1,0 +1,32 @@
+# C++ Learning Progress Tracker & Timeline
+
+## Overview
+- Current Level: 1 (Beginner -> Moving to Intermediate Level 2)
+- Consecutive Correct Question Streak: 1
+- Perfect Tasks Completed: 1 (Task 1)
+- Last Task Status: Task 1 PASSED WITH ZERO ERRORS
+- String File Processing Unlocked: No (Requires further linked list manipulation practice first)
+
+## Topic Mastery
+- Pointers: Mastered (Heap allocation with `new`, dereferencing, pointer assignment)
+- Structs: Mastered (Member access with `->`, struct instantiation)
+- Linked Lists: Good Progress (Singly linked list node creation and linking)
+- Memory Management: Curious / Asking about `delete` and memory leaks!
+- String File Processing: Locked
+
+## Strengths & Weaknesses
+- What was easier:
+  - Dynamically allocating memory on the heap with `new`.
+  - Linking nodes using `first->next = second;`.
+  - Correctly initializing `second->next = nullptr;`.
+  - Proactively asking about memory deallocation (`delete`) best practices.
+- Where failed / struggled:
+  - Initial syntax confusion with `.` vs `->`, but fully resolved and applied perfectly in code!
+
+## Timeline & Activity Log
+- [Initial Attempt]: Evaluated baseline questions. Struggled on `->` operator.
+- [Retry Attempt 1]: Correct on pointers and `nullptr`, missed struct pointer `.` vs `->`.
+- [Retry Attempt 2]: Correct! `ptr->data = 100`.
+- [Task 1 Assigned]: Prerequisite questions passed. Assigned Task 1 in exercise-1.cpp.
+- [Task 1 Completed]: PASSED PERFECTLY! The user created the `Node` struct, allocated memory with `new`, initialized values using `->`, linked nodes, and set `nullptr` correctly.
+- [Q&A]: User asked about memory cleanup (`delete`) best practice before return 0. Explained heap deallocation & memory leaks.
