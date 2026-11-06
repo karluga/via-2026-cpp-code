@@ -1,0 +1,3 @@
+C:/Users/kaarl/Desktop/GitHub/via-2026-cpp-code/build/CMakeFiles/SystemMonitor.dir
+C:/Users/kaarl/Desktop/GitHub/via-2026-cpp-code/build/CMakeFiles/edit_cache.dir
+C:/Users/kaarl/Desktop/GitHub/via-2026-cpp-code/build/CMakeFiles/rebuild_cache.dir

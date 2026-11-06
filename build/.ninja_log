@@ -1,0 +1,23 @@
+# ninja log v7
+6	1265	8156826566374302	CMakeFiles/SystemMonitor.dir/src/main.cpp.obj	3762bb3a974f6564
+85	2345	8156826567161193	CMakeFiles/SystemMonitor.dir/libs/imgui/backends/imgui_impl_opengl3.cpp.obj	2d9f8800b072e24d
+76	2632	8156826567071808	CMakeFiles/SystemMonitor.dir/libs/imgui/backends/imgui_impl_glfw.cpp.obj	30ff102ed66ea1a6
+60	3078	8156826566908461	CMakeFiles/SystemMonitor.dir/libs/imgui/imgui_tables.cpp.obj	c312d851a756c17f
+50	4211	8156826566822759	CMakeFiles/SystemMonitor.dir/libs/imgui/imgui_draw.cpp.obj	8161c05e1a829652
+68	4383	8156826566996662	CMakeFiles/SystemMonitor.dir/libs/imgui/imgui_widgets.cpp.obj	bebe2c122036e73c
+39	5466	8156826566712764	CMakeFiles/SystemMonitor.dir/libs/imgui/imgui.cpp.obj	1acfd56c856684f8
+14	2357	8156835272669240	CMakeFiles/SystemMonitor.dir/src/SystemInfo.cpp.obj	b73dd82bd048e8a4
+16	594	8156835761522176	CMakeFiles/SystemMonitor.dir/src/Dashboard.cpp.obj	4733323558fc5206
+595	1677	8156835767318145	SystemMonitor.exe	75a89efbb6b51545
+5	395	8156908750933887	build.ninja	37d94f15272250
+5	395	8156908750933887	C:/Users/kaarl/Desktop/GitHub/via-2026-cpp-code/build/cmake_install.cmake	37d94f15272250
+29	1135	8156908753335844	CMakeFiles/SystemMonitor.dir/src/main.cpp.obj	f32a2879081e71f5
+48	1279	8156908753521322	CMakeFiles/SystemMonitor.dir/src/Dashboard.cpp.obj	cd4e40adf969ec21
+91	1369	8156908753951279	CMakeFiles/SystemMonitor.dir/libs/imgui/backends/imgui_impl_opengl3.cpp.obj	fd5c1aabbe9b9fb2
+85	1836	8156908753891250	CMakeFiles/SystemMonitor.dir/libs/imgui/backends/imgui_impl_glfw.cpp.obj	a6d4003a63641309
+74	1950	8156908753781267	CMakeFiles/SystemMonitor.dir/libs/imgui/imgui_tables.cpp.obj	794eca7ac833409
+37	2189	8156908753415806	CMakeFiles/SystemMonitor.dir/src/SystemInfo.cpp.obj	e2541ad2d1d517a1
+69	2786	8156908753731246	CMakeFiles/SystemMonitor.dir/libs/imgui/imgui_draw.cpp.obj	15c73b21a2be838c
+79	2848	8156908753831243	CMakeFiles/SystemMonitor.dir/libs/imgui/imgui_widgets.cpp.obj	b5cd4382c8d43933
+60	3592	8156908753641323	CMakeFiles/SystemMonitor.dir/libs/imgui/imgui.cpp.obj	d24114328038b2da
+3592	4113	8156908788955220	SystemMonitor.exe	d3122a3a8760f5cf

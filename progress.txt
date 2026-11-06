@@ -1,32 +1,31 @@
 # C++ Learning Progress Tracker & Timeline
 
+## Student Preferences
+- Chat Code Output: DO NOT write fill-in-the-blanks code or exercise code snippets in chat. Only create/update the `.cpp` exercise file and link to it in chat.
+- Exercise Workflow: Start small with theory and syntax in chat -> Link to exercise file -> User edits file and types "check".
+- Active Keywords:
+  - "help": Explains the next logical step conceptually (no code written).
+  - "stuck": Writes the next code step and explains what to do after.
+  - "check": Evaluates user's code in the active exercise file.
+- Directory Structure: `ai_assisted_exercises/<topic>/` with topic-specific `progress.md`. (Folders created on demand).
+
 ## Overview
-- Current Level: 1 (Beginner -> Moving to Intermediate Level 2)
-- Consecutive Correct Question Streak: 1
-- Perfect Tasks Completed: 1 (Task 1)
-- Last Task Status: Task 1 PASSED WITH ZERO ERRORS
-- String File Processing Unlocked: No (Requires further linked list manipulation practice first)
+- Current Level: 3 (Advanced Beginner / Intermediate - File Processing Unlocked)
+- Consecutive Correct Question Streak: 4
+- Perfect Tasks Completed: 3 (Task 1, Task 2, Task 3)
+- Last Task Status: Task 3 PASSED WITH ZERO ERRORS
+- String File Processing Unlocked: YES (Criteria met: 3+ consecutive correct questions & perfect tasks)
 
 ## Topic Mastery
-- Pointers: Mastered (Heap allocation with `new`, dereferencing, pointer assignment)
-- Structs: Mastered (Member access with `->`, struct instantiation)
-- Linked Lists: Good Progress (Singly linked list node creation and linking)
-- Memory Management: Curious / Asking about `delete` and memory leaks!
-- String File Processing: Locked
-
-## Strengths & Weaknesses
-- What was easier:
-  - Dynamically allocating memory on the heap with `new`.
-  - Linking nodes using `first->next = second;`.
-  - Correctly initializing `second->next = nullptr;`.
-  - Proactively asking about memory deallocation (`delete`) best practices.
-- Where failed / struggled:
-  - Initial syntax confusion with `.` vs `->`, but fully resolved and applied perfectly in code!
+- Pointers: Mastered
+- Structs: Mastered
+- Linked Lists: Mastered (Creation, linking, traversal, searching)
+- String File Processing: UNLOCKED (Emulated files via `stringstream` / `istringstream`)
+- Memory Management: Addressed
 
 ## Timeline & Activity Log
-- [Initial Attempt]: Evaluated baseline questions. Struggled on `->` operator.
-- [Retry Attempt 1]: Correct on pointers and `nullptr`, missed struct pointer `.` vs `->`.
-- [Retry Attempt 2]: Correct! `ptr->data = 100`.
-- [Task 1 Assigned]: Prerequisite questions passed. Assigned Task 1 in exercise-1.cpp.
-- [Task 1 Completed]: PASSED PERFECTLY! The user created the `Node` struct, allocated memory with `new`, initialized values using `->`, linked nodes, and set `nullptr` correctly.
-- [Q&A]: User asked about memory cleanup (`delete`) best practice before return 0. Explained heap deallocation & memory leaks.
+- [Preferences Updated]: Explicitly set rule to NEVER write code snippets / fill-in-the-blanks in chat responses. Only create `.cpp` files and link them.
+- [Task 1 Completed]: Passed cleanly.
+- [Task 2 Completed]: Passed cleanly.
+- [Task 3 Completed]: PASSED PERFECTLY! The user correctly filled in `current->data == target`, `return true`, `current = current->next`, and `return false`.
+- [Milestone Unlocked]: String File Processing (emulated string files) unlocked!

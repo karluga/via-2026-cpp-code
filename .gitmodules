@@ -1,0 +1,3 @@
+[submodule "course_work__system_monitor/libs/imgui"]
+	path = course_work__system_monitor/libs/imgui
+	url = https://github.com/ocornut/imgui.git
